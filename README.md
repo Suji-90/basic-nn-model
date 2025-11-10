@@ -26,9 +26,9 @@ Plot the performance plot
 ### STEP 7:
 Evaluate the model with the testing data.
 ## PROGRAM:
-### Name: HARISH GOWTHAM E
-### Register Number: 2305002009
-```python
+### Name: SUJITHRA K
+### Register Number: 212223040212
+```
 from google.colab import auth
 import gspread
 from google.auth import default
